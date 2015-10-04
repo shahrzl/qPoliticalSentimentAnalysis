@@ -11,7 +11,7 @@ Status: Under Construction.
 * Use sets of positive and negative keywords as features for the machine learning algorithm.
 * Boosting Algorithm was implemented in q/kdb+(http://www.kx.com).
 * Facebook's data fetched using java REST API(http://restfb.com).
-* 
+ 
 
 ###How to run this:
 
